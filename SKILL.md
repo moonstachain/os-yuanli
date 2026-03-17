@@ -1,6 +1,10 @@
 ---
 name: os-yuanli
-description: "Use when the user explicitly asks for OS-原力, 原力OS, or wants a standalone root skill that takes over a task via 治理OS × 工作OS: start with six judgments, pass through 主题层 / 策略层 / 执行层, adapt artifact names by task family, support system audits and maturity scoring, verify before claiming completion, and end with an evolution note."
+description: >
+  原力OS上位总纲，定义系统边界、治理原则、仓库架构和 DNA 三条法则（递归进化、
+  技能统帅、人类友好）。当用户问"原力OS是什么"、"系统架构"、"治理原则"、
+  "DNA"、"仓库关系"时使用。
+  NOT for 具体数据查询或代码执行。
 ---
 
 # OS-原力
